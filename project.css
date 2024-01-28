@@ -1,0 +1,16 @@
+body{
+    background-color: green;
+    color: white;
+    font-size: larger;
+    border: 1px;
+}
+#bg{
+    background-color: white;
+    color: green;
+    background-image: url("/Naira.png");
+    overflow: auto;
+}
+h2{
+    font-size: medium;
+    font-style: italic;
+}
